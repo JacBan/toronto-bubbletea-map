@@ -14,7 +14,7 @@ Step 3:
 Step 4:
 
 ## Project Links:
-[Link to Final Dashboard]([https://public.tableau.com/app/profile/jaci.banton/viz/TorontoBubbleTea/TorontoBubbleTea])
+[Link to Final Dashboard](https://public.tableau.com/app/profile/jaci.banton/viz/TorontoBubbleTea/TorontoBubbleTea)
 
 Coming soon Link to Dashboard Process Blog Post
 
